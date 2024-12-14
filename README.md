@@ -1,4 +1,4 @@
 # calculator
 my first repository
 <br>
-author mohammed rehan
+author mohammed rehan mj
